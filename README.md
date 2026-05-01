@@ -8,7 +8,7 @@ Script will recursively traverse a directory tree (starting point provided throu
 ## Current State
 Currently the script recursively traverses directory tree (starting point is hard-coded) and generate a CSV inventory of all files, including their paths and associated system metadata.
 ## TO-DO
-[] Add PDF metadata discovery function
-[] Take starting path as a command line argument (currently hardcoded)
-[] Attempt to identify duplicate files in different locations (nice to have)
-[] Better error handling
+- Add PDF metadata discovery function
+- Take starting path as a command line argument (currently hardcoded)
+- Attempt to identify duplicate files in different locations (nice to have)
+- Better error handling
